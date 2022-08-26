@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/Volumes/Data/WYJ/Java/.metadata/.plugins/org.eclipse.jdt.core
+1993042143.index
+1865797976.index
+427613339.index
+3859251906.index
+1492389189.index
+3703194086.index

@@ -1,0 +1,17 @@
+package com.javalec.base;
+
+public class Calc {
+
+	public static void main(String[] args) {
+	    //덧셈
+		System.out.println(10+20);
+		//뺄셈
+		System.out.println(20-10);
+		//곱셈
+		System.out.println(10*20);
+		//나눗셈(몫)
+		System.out.println(20/10);
+		System.out.println(10./20);
+	}
+
+}

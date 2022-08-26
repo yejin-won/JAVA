@@ -1,0 +1,10 @@
+package com.javalec.base;
+
+public class Review1 {
+	public static void main(String[] args) {
+	
+	//Review
+	System.out.println("Hello");
+	System.out.println("World");
+	}
+}
